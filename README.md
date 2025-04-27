@@ -1,7 +1,7 @@
 ## Hi there , I'm David Vargas :construction_worker:👋
----
+
 ## About me
----
+
 Hi there! I'm David, an Automation Engineer passionate about industrial automation, IoT, and backend development.
 I love solving real-world problems through programming, electronics, and control systems.
 
@@ -28,14 +28,14 @@ I'm currently expanding my knowledge in:
 I enjoy learning, sharing knowledge, and building solutions that connect the digital and physical worlds.
 Let's build something amazing!
 
----
+
 
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+
 
 ## Tools
 
@@ -43,15 +43,13 @@ Let's build something amazing!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
- ---
+ 
 
 ## Github Status
 
  ![DaviCodex's Stats](https://github-readme-stats.vercel.app/api?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&count_private=true)
- ![DaviCodex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviCodex&theme=onedark&hide_border=false)
  ![DaviCodex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
----
 
 ## Let's connect on LinkedIn
 
