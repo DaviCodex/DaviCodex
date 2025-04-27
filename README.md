@@ -1,5 +1,5 @@
-<a href="">
-  <img src="" alt="Landscape GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/DaviCodex/DaviCodex/blob/main/pixel-art1.gif">
+  <img src="https://github.com/DaviCodex/DaviCodex/blob/main/pixel-art1.gif" alt="Landscape GIF" style="width:auto; height:auto"/>
 </a>
 
 ## Hi there , I'm David Vargas :construction_worker:👋
