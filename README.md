@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://github.com/DaviCodex/DaviCodex/blob/main/pixel-art1.gif">
-    <img src="https://github.com/DaviCodex/DaviCodex/blob/main/pixel-art1.gif" alt="Landscape GIF" style="width:100%; height:auto"/>
+    <img src="https://github.com/DaviCodex/DaviCodex/blob/main/pixel-art1.gif" alt="Landscape GIF" style="width:1000px; height:auto"/>
   </a>
 </div>
+
 ## Hi there , I'm David Vargas :construction_worker:👋
 
 ## About me
