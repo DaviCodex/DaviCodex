@@ -1,16 +1,60 @@
-## Hi there 👋
+## Hi there , I'm David Vargas :construction_worker:👋
+---
+## About me
+---
+Hi there! I'm David, an Automation Engineer passionate about industrial automation, IoT, and backend development.
+I love solving real-world problems through programming, electronics, and control systems.
 
-<!--
-**DaviCodex/DaviCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main skills include:
 
-Here are some ideas to get you started:
+* :snake: Python for automation and data processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :radio: Industrial communication protocols (Modbus TCP/IP, GSM modules)
+
+* :computer: PLC programming and SCADA systems
+
+* :satellite: IoT integration with sensors and cloud platforms
+
+* :pencil: PCB design for embedded systems
+
+I'm currently expanding my knowledge in:
+
+* :bow: Backend development (APIs, databases)
+
+* :rocket: DevOps practices
+
+* :wrench: Node-RED, MQTT, and WebSocket technologies
+
+I enjoy learning, sharing knowledge, and building solutions that connect the digital and physical worlds.
+Let's build something amazing!
+
+---
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## Tools
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+ ---
+
+## Github Status
+
+ ![DaviCodex's Stats](https://github-readme-stats.vercel.app/api?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+ ![DaviCodex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviCodex&theme=onedark&hide_border=false)
+ ![DaviCodex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+
+---
+
+## Let's connect on LinkedIn
+
+Hello, I am expanding my professional network and would be pleased to connect with you.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fernando-vargas-mej%C3%ADa-b8977a23b/)
