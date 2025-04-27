@@ -28,14 +28,10 @@ I'm currently expanding my knowledge in:
 I enjoy learning, sharing knowledge, and building solutions that connect the digital and physical worlds.
 Let's build something amazing!
 
-
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
 
 ## Tools
 
@@ -43,13 +39,10 @@ Let's build something amazing!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
- 
-
 ## Github Status
 
  ![DaviCodex's Stats](https://github-readme-stats.vercel.app/api?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&count_private=true)
  ![DaviCodex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&layout=compact)
-
 
 ## Let's connect on LinkedIn
 
