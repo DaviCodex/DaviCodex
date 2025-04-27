@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/DaviCodex/DaviCodex/blob/main/pixel-art1.gif">
-    <img src="https://github.com/DaviCodex/DaviCodex/blob/main/pixel-art1.gif" alt="Landscape GIF" style="width:1000px; height:auto"/>
+  <a href="./Img/pixel-art1.gif">
+    <img src="./Img/pixel-art1.gif" alt="Landscape GIF" style="width:830px; height:332px"/>
   </a>
 </div>
 
