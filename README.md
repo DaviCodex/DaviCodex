@@ -46,6 +46,7 @@ Let's build something amazing!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## :zap: Recent Activity
+<!--RECENT_ACTIVITY:start-->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
