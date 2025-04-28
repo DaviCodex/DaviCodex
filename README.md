@@ -45,6 +45,10 @@ Let's build something amazing!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## :zap: Recent Activity
+
+
+
 ## Github Status
 
  ![DaviCodex's Stats](https://github-readme-stats.vercel.app/api?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&count_private=true)
