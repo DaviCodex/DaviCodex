@@ -47,11 +47,12 @@ Let's build something amazing!
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
+<!--RECENT_ACTIVITY:last_update-->
 
+<!--RECENT_ACTIVITY:last_update_end-->
 ## Github Status
 
  ![DaviCodex's Stats](https://github-readme-stats.vercel.app/api?username=DaviCodex&theme=onedark&show_icons=true&hide_border=false&count_private=true)
