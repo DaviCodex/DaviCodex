@@ -1,1 +1,7 @@
-
+recent_activity:
+  include:
+    - issues
+    - pull_requests
+    - commits
+  exclude:
+    - labels: ["bot"]
