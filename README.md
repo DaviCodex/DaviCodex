@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="./Img/pixel-art1.gif">
-    <img src="./Img/pixel-art1.gif" alt="Landscape GIF" style="width:830px; height:332px"/>
+  <a href="./Img/darksoulsGif.gif">
+    <img src="./Img/darksoulsGif.gif" alt="Landscape GIF" style="width:830px; height:332px"/>
   </a>
 </div>
 
